@@ -1,29 +1,153 @@
-#Wesley
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio - Wesley Stadler</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      background: #0f172a;
+      color: #f1f5f9;
+      margin: 0;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 4rem 1rem;
+      background: #1e293b;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      color: #94a3b8;
+      font-size: 1.2rem;
+    }
+    main {
+      max-width: 1100px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+    h2 {
+      border-left: 6px solid #38bdf8;
+      padding-left: 0.5rem;
+      color: #38bdf8;
+      margin-bottom: 1rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background: #1e293b;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transition: transform 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card img {
+      width: 100%;
+      height: 220px;
+      object-fit: cover;
+    }
+    .card-body {
+      padding: 1rem;
+    }
+    .card-body h3 {
+      margin-bottom: 0.5rem;
+    }
+    .card-body p {
+      color: #cbd5e1;
+      font-size: 0.95rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: #1e293b;
+      color: #94a3b8;
+      margin-top: 2rem;
+    }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Wesley Stadler</h1>
+    <p>Designer Gráfico | Arte-finalista | Estudante de Design (Uniso - Noturno)</p>
+  </header>
 
-Cursando Desing (Uniso - Período Noturno)
+  <main>
+    <section>
+      <h2>💡 Sobre mim</h2>
+      <p>Tenho 7 anos de experiência em arte-finalismo, criação de materiais gráficos e vetorização. Trabalho principalmente com <strong>Corel Draw</strong>, mas também utilizo <strong>Photoshop, Illustrator e Canva</strong>. Produzo artes para redes sociais, impressos e identidades visuais, além de gravação e edição de vídeos (CapCut e Premiere).</p>
+    </section>
 
-## Habilidades
-- 7 anos de experiência em arte finalismo, trabalho principalmente com Corel Draw, porém faço uso de Photoshop, Illustrator e Canva
-- Experiência com gravação e edição de vídeos longos e curtos para redes sociais, faço o uso principalmente do CapCut porém ja trabalhei brevemente com Premiere
-- Experiência com criação de material gráfico para posts, publicidades e readers para site; e vetorização
+    <section>
+      <h2>🚀 Habilidades</h2>
+      <ul>
+        <li>🎨 Arte-finalismo (7 anos de experiência)</li>
+        <li>🖌️ Corel Draw, Photoshop, Illustrator, Canva</li>
+        <li>📢 Criação de posts, publicidades, folders e readers</li>
+        <li>✍️ Vetorização de logotipos e artes</li>
+        <li>🎥 Gravação e edição de vídeos curtos e longos</li>
+      </ul>
+    </section>
 
-## Imagens
-[Manual de preparo - Bebidas Geladas Lat Cafe.pdf](https://github.com/user-attachments/files/22308372/Manual.de.preparo.-.Bebidas.Geladas.Lat.Cafe.pdf)
+    <section>
+      <h2>🎨 Projetos</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="post-retifica.png" alt="Arte Retífica da Barba">
+          <div class="card-body">
+            <h3>Campanha Barbearia</h3>
+            <p>Peças para redes sociais e materiais promocionais da barbearia <em>Retífica da Barba</em>.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img src="mockup-namorados.png" alt="Mockup Dia dos Namorados">
+          <div class="card-body">
+            <h3>Dia dos Namorados</h3>
+            <p>Arte personalizada e aplicação em mockup de vestuário.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img src="cartao-seguros.png" alt="Cartão de Visita Seguros">
+          <div class="card-body">
+            <h3>Identidade Corporativa</h3>
+            <p>Cartões de visita e materiais gráficos para consultoria de seguros.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img src="manual-bebidas.png" alt="Manual de Bebidas">
+          <div class="card-body">
+            <h3>Design Editorial</h3>
+            <p>Manual de preparo de bebidas geladas para cafeteria.</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
-<img width="1084" height="1084" alt="post retifica da barba 50% feed" src="https://github.com/user-attachments/assets/772367c8-28d4-4192-88de-689764eebe26" />
+    <section>
+      <h2>📫 Contato</h2>
+      <p>📱 Telefone/WhatsApp: <a href="tel:+5515997770666">(15) 99777-0666</a></p>
+      <p>📧 Email: <a href="mailto:wesley.stadler388@gmail.com">wesley.stadler388@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/seu-perfil" target="_blank">linkedin.com/in/seu-perfil</a></p>
+      <p>Instagram: <a href="https://instagram.com/seuusuario" target="_blank">@seuusuario</a></p>
+    </section>
+  </main>
 
-[windbanner retifica da barba.pdf](https://github.com/user-attachments/files/22308378/windbanner.retifica.da.barba.pdf)
-
-<img width="1080" height="1920" alt="barbeiro a domicilio 4" src="https://github.com/user-attachments/assets/51da8e79-8b50-49fe-8a3e-1c9353a7da05" />
-
-<img width="1920" height="800" alt="run club header 1" src="https://github.com/user-attachments/assets/ce284545-3740-44a5-a5c1-bd0a1a33da39" />
-<img width="640" height="800" alt="run club header 1 mobile qualidade" src="https://github.com/user-attachments/assets/29eed36c-ce81-4487-a1d3-67b1e36af28c" />
-<img width="640" height="800" alt="run club header 3 mobile" src="https://github.com/user-attachments/assets/60cb6890-fab8-4e2c-a2fc-848fcfea251d" />
-<img width="1280" height="533" alt="run club header 3 att" src="https://github.com/user-attachments/assets/2b4ffed1-20ff-4214-8ee0-cd30f1ead08f" />
-<img width="640" height="800" alt="run club header 2 mobile" src="https://github.com/user-attachments/assets/9d096af1-413e-4dc3-9c11-d6bc8f91ccb5" />
-<img width="1920" height="800" alt="run club header 2 att" src="https://github.com/user-attachments/assets/c55f8db3-c47b-4878-b33d-8bd9170b1ec0" />
-
-## Contato
-- (15)99777-0666
-- Email: wesley.stadler388@gmail.com
+  <footer>
+    <p>© 2025 Wesley Stadler - Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
 
