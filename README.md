@@ -1,139 +1,113 @@
-
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Wesley Stadler — Portfólio</title>
-
-    }
-    *{box-sizing:border-box}
-    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased}
-    header{padding:48px 16px;text-align:center;background:#0b1220}
-    header h1{margin:0;font-size:34px;letter-spacing:1px}
-    header p{margin-top:8px;color:var(--muted)}
-    main{max-width:1100px;margin:32px auto;padding:0 16px}
-    h2{color:var(--accent);border-left:6px solid var(--accent);padding-left:10px;margin-bottom:12px}
-    p.lead{color:var(--muted);max-width:900px}
-    ul.skills{color:var(--muted);margin-top:8px}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin-top:18px}
-    .card{background:var(--card);border-radius:10px;overflow:hidden;box-shadow:0 6px 20px rgba(0,0,0,.6);transition:transform .18s}
-    .card:hover{transform:translateY(-6px)}
-    .card img{width:100%;height:220px;object-fit:cover;display:block}
-    .card-body{padding:14px}
-    .card-body h3{margin:0 0 6px;font-size:18px}
-    .card-body p{margin:0;color:#d1d5db;font-size:14px}
-    footer{padding:28px 16px;text-align:center;color:var(--muted);margin-top:28px;background:#071018}
-    a{color:var(--accent);text-decoration:none}
-    @media (max-width:480px){header h1{font-size:26px}}
-  </style>
 </head>
 <body>
   <header>
     <h1>Wesley Stadler</h1>
-    <p>Cursando Design (Uniso - Noturno) — Designer Gráfico & Arte-finalista</p>
+    <p>Cursando Design (Uniso - Noturno) — Design</p>
   </header>
 
   <main>
     <section aria-label="sobre">
-      <h2>💡 Sobre mim</h2>
-      <p class="lead">7 anos de experiência em arte-finalismo — Corel Draw, Photoshop, Illustrator e Canva. Edição de vídeos (CapCut / Premiere). Produção de artes para redes e impressos, vetorização e identidade visual.</p>
-    </section>
-
-    <section aria-label="habilidades">
-      <h2>🚀 Habilidades</h2>
-      <ul class="skills">
-        <li>🎨 Arte-finalismo (7 anos)</li>
-        <li>🖌️ Corel Draw, Photoshop, Illustrator, Canva</li>
-        <li>🎥 CapCut / Premiere — edição de vídeos</li>
-        <li>📢 Posts, publicidades, folders, readers e vetorização</li>
+      <h2>💡 Sobre mim</h2> <p class="lead"> 
+        <li>Estou cursando Design no Período Norturno (UNISO), tenho 7 anos de experiência com produção de mídia e artefinalismo, gravo e edito vídeos curtos e longos para redes sociais, atualmente busco oportunidades que conversem com a área que estou cursando para complementar minha aprendizagem enquanto ofereço minha experiência em troca.
       </ul>
-    </section>
+       <h2>🚀 Habilidades</h2>
+      <ul class="skills">
+        <li>Corel Draw
+        <li>Photoshop/Illustrator
+        <li>Canva
+        <li>CapCut
+        <li>Premiere
+      </ul>
 
-    <section aria-label="projetos">
+
+   <section aria-label="projetos">
       <h2>🎨 Projetos</h2>
       <div class="grid">
-        <div class="card">
-          <img src="img/post-retifica.png" alt="Campanha Retífica da Barba">
-          <div class="card-body">
-            <h3>Campanha Barbearia — Retífica da Barba</h3>
+
+   <div class="card-body">
+            <h3>Tag / Etiqueta</h3>
+     
+<img width="594" height="1066" alt="tag momunes 25" src="https://github.com/user-attachments/assets/22a49177-0a6a-4f6b-b8f1-a7fd649f73f7" />
+
+     
+  <p>Etiqueta para produto.</p>
+          </div>
+        </div>
+
+
+        
+   <div class="card">
+          <img <img width="429" height="603" alt="image" src="https://github.com/user-attachments/assets/dc327707-d8b2-4598-943d-08c415103a9a" />
+
+  <h3>Campanha Barbearia — Retífica da Barba</h3>
             <p>Peças para redes sociais e materiais promocionais (post, banner e flyer).</p>
           </div>
         </div>
 
-        <div class="card">
-          <img src="img/barbeiro-domicilio.png" alt="Barbeiro a Domicílio">
-          <div class="card-body">
+  <div class="card">
+
+<img width="590" height="970" alt="barbeiro a domicilio 4" src="https://github.com/user-attachments/assets/4119bafc-da55-4011-a4a5-8cb6d3b6e0e3" />
+
+  <div class="card-body">
             <h3>Barbeiro a Domicílio</h3>
             <p>Flyer e peça visual com mockup para divulgação de serviço a domicílio.</p>
           </div>
         </div>
 
-        <div class="card">
-          <img src="img/mockup-namorados.png" alt="Mockup Dia dos Namorados">
-          <div class="card-body">
-            <h3>Dia dos Namorados — Mockup</h3>
-            <p>Arte aplicada em mockup de vestuário e material promocional.</p>
+   <div class="card">
+
+
+  <div class="card-body"><img width="1000" height="1000" alt="dia dos namorados 2024 arte final" src="https://github.com/user-attachments/assets/4ea6fbd5-e917-400c-93f2-d29d5db2a9d9" />
+  
+<img width="1000" height="1000" alt="mockup dia dos namorados 2024 + signature" src="https://github.com/user-attachments/assets/f724696e-1ce3-41fa-9c6c-5924c5ff40c6" />
+
+
+   <p>Arte aplicada em mockup de vestuário e material promocional.</p>
           </div>
         </div>
 
-        <div class="card">
-          <img src="img/dia-namorados.png" alt="Arte Dia dos Namorados final">
-          <div class="card-body">
-            <h3>Arte Final — Dia dos Namorados</h3>
-            <p>Peça final para redes e impressão.</p>
-          </div>
-        </div>
+   <div class="card">
 
-        <div class="card">
-          <img src="img/cartao-seguros1.png" alt="Cartão de visita Wesley Seguros 1">
-          <div class="card-body">
-            <h3>Cartão de Visita — Seguros (1)</h3>
+   <div class="card-body">
+
+
+  <div class="card">
+
+
+   <img width="392" height="864" alt="cartão de visita wesley stadler consultor de seguros 1" src="https://github.com/user-attachments/assets/95d5cc83-4dcc-4f7f-89a6-69961e62e5d3" />  <img width="392" height="864" alt="cartão de visita wesley stadler consultor de seguros 2" src="https://github.com/user-attachments/assets/9fc6bdd9-ca87-44da-8131-f7b2e8170803" />
+
+   <div class="card-body">
+
+   <h3>Cartão de Visita — Seguros</h3>
             <p>Identidade corporativa e cartão para consultoria de seguros.</p>
           </div>
-        </div>
 
-        <div class="card">
-          <img src="img/cartao-seguros2.png" alt="Cartão de visita Wesley Seguros 2">
-          <div class="card-body">
-            <h3>Cartão de Visita — Seguros (2)</h3>
-            <p>Versão alternativa com informação de contato e ícones.</p>
-          </div>
-        </div>
 
-        <div class="card">
-          <img src="img/windbanner.png" alt="Windbanner Retífica da Barba">
-          <div class="card-body">
-            <h3>Windbanner / Sinalização</h3>
-            <p>Arte de comunicação visual para aplicação em impressão grande formato.</p>
-          </div>
-        </div>
 
-        <div class="card">
-          <img src="img/manual-bebidas.png" alt="Manual de bebidas">
-          <div class="card-body">
+  <div class="card">
+      
+  [Manual de preparo - Bebidas Geladas Lat Cafe.pdf](https://github.com/user-attachments/files/22308513/Manual.de.preparo.-.Bebidas.Geladas.Lat.Cafe.pdf)
+
+  
+  <div class="card-body">
             <h3>Design Editorial — Manual de Bebidas</h3>
             <p>Manual com layout para cafeteria — preparação de drinks e lat café.</p>
           </div>
         </div>
 
-        <div class="card">
-          <img src="img/tag-momunes.png" alt="Tag Momunes">
-          <div class="card-body">
-            <h3>Tag / Etiqueta</h3>
-            <p>Etiqueta para produto — arquivo exportado a partir do CDR.</p>
-          </div>
-        </div>
+   <div class="card">
 
-      </div>
+
+     
+  </div>
     </section>
 
-    <section aria-label="contato" style="margin-top:22px">
+   <section aria-label="contato" style="margin-top:22px">
       <h2>📫 Contato</h2>
       <p>📱 <a href="tel:+5515997770666">(15) 99777-0666</a> — 📧 <a href="mailto:wesley.stadler388@gmail.com">wesley.stadler388@gmail.com</a></p>
-      <p>Instagram: <a href="https://instagram.com/seuusuario" target="_blank">@seuusuario</a> — LinkedIn: <a href="https://linkedin.com/in/seu-perfil" target="_blank">linkedin.com/in/seu-perfil</a></p>
-    </section>
+
+    
+</section>
   </main>
 
   <footer>
@@ -141,4 +115,3 @@
   </footer>
 </body>
 </html>
-
