@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8">
@@ -66,12 +65,12 @@
 
         
    <div class="card">
-          <img <img width="429" height="603" alt="image" src="https://github.com/user-attachments/assets/dc327707-d8b2-4598-943d-08c415103a9a" />
+          <img width="429" height="603" alt="image" src="https://github.com/user-attachments/assets/dc327707-d8b2-4598-943d-08c415103a9a" />
 
   <h3>Campanha Barbearia — Retífica da Barba</h3>
             <p>Peças para redes sociais e materiais promocionais (post, banner e flyer).</p>
-          </div>
-        </div>
+    
+   </div>
 
   <div class="card">
 
@@ -135,10 +134,8 @@
 
     
 </section>
-  </main>
 
   <footer>
     © 2025 Wesley Stadler · Todos os direitos reservados
   </footer>
-</body>
-</html>
+
