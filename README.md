@@ -1,4 +1,3 @@
-</head>
 <body>
   <header>
     <h1>Wesley Stadler</h1>
@@ -17,7 +16,6 @@
         <li>Canva
         <li>CapCut
         <li>Premiere
-      </ul>
 
 
    <section aria-label="projetos">
@@ -51,8 +49,8 @@
   <div class="card-body">
             <h3>Barbeiro a Domicílio</h3>
             <p>Flyer e peça visual com mockup para divulgação de serviço a domicílio.</p>
-          </div>
-        </div>
+     
+  </div>
 
    <div class="card">
 
@@ -85,8 +83,7 @@
 
 
   <div class="card">
-      
-  [Manual de preparo - Bebidas Geladas Lat Cafe.pdf](https://github.com/user-attachments/files/22308513/Manual.de.preparo.-.Bebidas.Geladas.Lat.Cafe.pdf)
+    
 
   
   <div class="card-body">
@@ -100,7 +97,6 @@
 
      
   </div>
-    </section>
 
    <section aria-label="contato" style="margin-top:22px">
       <h2>📫 Contato</h2>
