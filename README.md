@@ -53,14 +53,18 @@
       border-radius:10px;
       overflow:hidden;
       box-shadow:0 6px 20px rgba(0,0,0,.6);
-      transition:transform .18s
+      transition:transform .18s;
+      text-align:center;
     }
     .card:hover{transform:translateY(-6px)}
     .card img{
-      width:100%;
-      height:auto;       /* agora não corta a imagem */
-      object-fit:contain;/* mantém a arte inteira */
-      display:block
+      max-width:100%;     /* não passa do tamanho do card */
+      max-height:250px;   /* limita a altura */
+      height:auto;
+      width:auto;
+      object-fit:contain; /* mantém a proporção */
+      margin:0 auto;      /* centraliza */
+      display:block;
     }
     .card-body{padding:14px}
     .card-body h3{margin:0 0 6px;font-size:18px}
@@ -77,7 +81,7 @@
   </style>
 </head>
 <body>
-  <header>
+
     <h1>Wesley Stadler</h1>
     <p>Cursando Design (Uniso - Noturno) — Design</p>
   </header>
