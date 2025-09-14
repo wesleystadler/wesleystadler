@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Wesley Stadler — Portfólio</title>
+  <style>
+    :root{
+      --bg:#0f172a; --card:#111827; --accent:#f59e0b; --muted:#94a3b8; --text:#f8fafc;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased}
+    header{padding:48px 16px;text-align:center;background:#0b1220}
+    header h1{margin:0;font-size:34px;letter-spacing:1px}
+    header p{margin-top:8px;color:var(--muted)}
+    main{max-width:1100px;margin:32px auto;padding:0 16px}
+    h2{color:var(--accent);border-left:6px solid var(--accent);padding-left:10px;margin-bottom:12px}
+    p.lead{color:var(--muted);max-width:900px}
+    ul.skills{color:var(--muted);margin-top:8px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin-top:18px}
+    .card{background:var(--card);border-radius:10px;overflow:hidden;box-shadow:0 6px 20px rgba(0,0,0,.6);transition:transform .18s}
+    .card:hover{transform:translateY(-6px)}
+    .card img{width:100%;height:220px;object-fit:cover;display:block}
+    .card-body{padding:14px}
+    .card-body h3{margin:0 0 6px;font-size:18px}
+    .card-body p{margin:0;color:#d1d5db;font-size:14px}
+    footer{padding:28px 16px;text-align:center;color:var(--muted);margin-top:28px;background:#071018}
+    a{color:var(--accent);text-decoration:none}
+    @media (max-width:480px){header h1{font-size:26px}}
+  </style>
+</head>
 <body>
   <header>
     <h1>Wesley Stadler</h1>
