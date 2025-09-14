@@ -119,7 +119,7 @@
           <img width="429" height="603" alt="image" src="https://github.com/user-attachments/assets/dc327707-d8b2-4598-943d-08c415103a9a" />
 
   <h3>Campanha Barbearia — Retífica da Barba</h3>
-            <p>Peças para redes sociais e materiais promocionais (post, banner e flyer).</p>
+            <p>Peças para redes sociais e materiais promocionais.</p>
     
    </div>
 
