@@ -105,6 +105,9 @@
       <div class="grid">
 
    <div class="card-body">
+
+             
+   <div class="card">
             <h3>Tag / Etiqueta</h3>
      
 <img width="594" height="1066" alt="tag momunes 25" src="https://github.com/user-attachments/assets/22a49177-0a6a-4f6b-b8f1-a7fd649f73f7" />
@@ -169,17 +172,16 @@
 
   
   <div class="card-body">
-            <h3>Design para  Web — Readers</h3>
+            <h3>Design para  Web — Headers</h3>
     <img width="640" height="800" alt="run club header 3 mobile" src="https://github.com/user-attachments/assets/cc6816e2-01e2-4c44-b10a-c2ac8a50ec27" />
 <img width="1280" height="533" alt="run club header 3 att" src="https://github.com/user-attachments/assets/09d7538b-fb2a-45ca-9864-ddf3380abe62" />
 <img width="640" height="800" alt="run club header 2 mobile" src="https://github.com/user-attachments/assets/fc1e837f-4b74-44d6-9e2b-4ff3ec77e0f3" />
 <img width="1920" height="800" alt="run club header 2 att" src="https://github.com/user-attachments/assets/8ad46c15-f18e-412e-9ac6-9475b85ec3a7" />
 <img width="1920" height="800" alt="run club header 1" src="https://github.com/user-attachments/assets/f054370c-6c42-44d4-8318-4b2f365993a5" />
-
 <img width="640" height="800" alt="run club header 1 mobile qualidade" src="https://github.com/user-attachments/assets/506846aa-e8f8-4e1b-a467-82d3f27c0f7c" />
 
     
-   <p>Readers para site Desktop e Mobile.</p>
+   <p>Headers para site Desktop e Mobile.</p>
           </div>
         </div>
 
