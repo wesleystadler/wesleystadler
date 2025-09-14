@@ -84,7 +84,6 @@
 
     <h1>Wesley Stadler</h1>
     <p>Cursando Design (Uniso - Noturno) — Design</p>
-  </header>
 
   <main>
     <section aria-label="sobre">
