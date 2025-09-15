@@ -30,7 +30,7 @@
       color:var(--muted)
     }
     main{
-      max-width:1400px; /* aumentei a largura da área central */
+      max-width:1200px;
       margin:32px auto;
       padding:0 16px
     }
@@ -42,7 +42,7 @@
     }
     .grid{
       display:grid;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); /* imagens maiores */
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* cards lado a lado */
       gap:24px; /* espaço entre os cards */
       margin-top:24px;
     }
@@ -53,20 +53,18 @@
       box-shadow:0 6px 20px rgba(0,0,0,.6);
       transition:transform .18s;
       text-align:center;
-      padding:10px;
     }
     .card:hover{transform:translateY(-6px)}
     .card img{
       width:100%;
-      max-height:500px; /* imagens grandes */
+      max-height:300px; /* imagens grandes, mas sem cortar */
       height:auto;
-      object-fit:contain; /* mostra a arte inteira */
+      object-fit:contain;
       display:block;
-      margin:0 auto;
     }
     .card-body{padding:14px}
-    .card-body h3{margin:0 0 6px;font-size:20px}
-    .card-body p{margin:0;color:#d1d5db;font-size:15px}
+    .card-body h3{margin:0 0 6px;font-size:18px}
+    .card-body p{margin:0;color:#d1d5db;font-size:14px}
     footer{
       padding:28px 16px;
       text-align:center;
@@ -76,7 +74,12 @@
     }
     a{color:var(--accent);text-decoration:none}
     @media (max-width:768px){
-      .grid{grid-te
+      .grid{grid-template-columns: 1fr;} /* no celular fica 1 card por linha */
+    }
+  </style>
+</head>
+<body>
+
 
 
     <h1>Wesley Stadler</h1>
