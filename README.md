@@ -1,95 +1,12 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Wesley Stadler — Portfólio</title>
 
-  <style>
-    :root{
-      --bg:#0f172a;
-      --card:#111827;
-      --accent:#f59e0b;
-      --muted:#94a3b8;
-      --text:#f8fafc;
-    }
-    *{box-sizing:border-box}
-    body{
-      margin:0;
-      font-family:Arial,Helvetica,sans-serif;
-      background:var(--bg);
-      color:var(--text);
-    }
-    header{
-      padding:48px 16px;
-      text-align:center;
-      background:#0b1220;
-    }
-    header h1{margin:0;font-size:34px}
-    header p{margin-top:8px;color:var(--muted)}
-    main{
-      max-width:1200px;
-      margin:32px auto;
-      padding:0 16px;
-    }
-    h2{
-      color:var(--accent);
-      border-left:6px solid var(--accent);
-      padding-left:10px;
-      margin:40px 0 16px;
-    }
-    ul{color:var(--muted)}
-    .grid{
-      display:grid;
-      grid-template-columns:repeat(auto-fit, minmax(350px, 1fr));
-      gap:24px;
-    }
-    .card{
-      background:var(--card);
-      border-radius:10px;
-      overflow:hidden;
-      box-shadow:0 6px 20px rgba(0,0,0,.6);
-      text-align:center;
-    }
-    .card img,
-    .card iframe,
-    .card video{
-      width:100%;
-      max-height:360px;
-      object-fit:contain;
-      display:block;
-      background:#000;
-      border:none;
-    }
-    .card-body{padding:14px}
-    .card-body h3{margin:0 0 6px;font-size:18px}
-    .card-body p{margin:0;color:#d1d5db;font-size:14px}
-    .card-body a{
-      display:inline-block;
-      margin-top:8px;
-      color:var(--accent);
-      font-weight:bold;
-      text-decoration:none;
-    }
-    footer{
-      margin-top:48px;
-      padding:24px;
-      text-align:center;
-      background:#071018;
-      color:var(--muted);
-    }
-    @media(max-width:768px){
-      .grid{grid-template-columns:1fr}
-    }
-  </style>
-</head>
-
-<body>
 
 <header>
   <h1>Wesley Stadler</h1>
   <p>Cursando Design (UNISO — Noturno)</p>
 </header>
+
+<main>
 
 <main>
 
