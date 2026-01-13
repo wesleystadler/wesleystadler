@@ -57,9 +57,7 @@
     <ul>
       <li>Corel Draw</li>
       <li>Photoshop & Illustrator</li>
-      <li>Canva</li>
       <li>CapCut</li>
-      <li>Premiere</li>
     </ul>
   </section>
 
@@ -163,6 +161,4 @@
   © 2025 Wesley Stadler · Todos os direitos reservados
 </footer>
 
-</body>
-</html>
 
