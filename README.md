@@ -32,13 +32,10 @@
 <div class="grid">
 
   <div class="card">
-  <div class="card-body">
-      <a href="[https://github.com/user-attachments/assets/22a49177-0a6a-4f6b-b8f1-a7fd649f73f7](https://github.com/wesleystadler/wesleystadler/blob/main/compara%C3%A7%C3%A3o%20the%20blend%20editado%20(1).pdf)">Abrir PDF</a>
-    </div>
-
-  <div class="card-body">
+      <a href="[[https://github.com/user-attachments/assets/22a49177-0a6a-4f6b-b8f1-a7fd649f73f7](https://github.com/wesleystadler/wesleystadler/blob/main/compara%C3%A7%C3%A3o%20the%20blend%20editado%20(1).pdf)](https://github.com/wesleystadler/wesleystadler/blob/main/comparação%20the%20blend%20editado%20(1).pdf)">Abrir PDF</a>
+ <div class="card-body">
       <h3>Edição e produção de fotos para produtos</h3>
-      <p></p>
+      <p>Edição e produção de foto</p>
     </div>
   </div>
 
@@ -105,7 +102,7 @@
    
    <div class="card-body">
       <h3>Manual – Bebidas Geladas</h3>
-      <a href="[arquivos/Manual-de-preparo-Bebidas-Geladas-Lat-Cafe.pdf" target="_blank](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Geladas%20Lat%20Cafe.pdf)">Abrir PDF</a>
+      <a href="[[arquivos/Manual-de-preparo-Bebidas-Geladas-Lat-Cafe.pdf" target="_blank](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Geladas%20Lat%20Cafe.pdf)](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Geladas%20Lat%20Cafe.pdf)">Abrir PDF</a>
     </div>
   </div>
 
@@ -113,7 +110,7 @@
 
    <div class="card-body">
       <h3>Manual – Bebidas Quentes</h3>
-      <a href="[arquivos/Manual-de-preparo-Bebidas-Quentes-Lat-Cafe.pdf" target="_blank](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Quentes%20Lat%20Cafe.pdf)">Abrir PDF</a>
+      <a href="[[arquivos/Manual-de-preparo-Bebidas-Quentes-Lat-Cafe.pdf" target="_blank](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Quentes%20Lat%20Cafe.pdf)](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Quentes%20Lat%20Cafe.pdf)">Abrir PDF</a>
     </div>
   </div>
 
