@@ -32,6 +32,19 @@
 <div class="grid">
 
   <div class="card">
+  <div class="card-body">
+      <a href="[https://github.com/user-attachments/assets/22a49177-0a6a-4f6b-b8f1-a7fd649f73f7](https://github.com/wesleystadler/wesleystadler/blob/main/compara%C3%A7%C3%A3o%20the%20blend%20editado%20(1).pdf)">Abrir PDF</a>
+    </div>
+
+  <div class="card-body">
+      <h3>Edição e produção de fotos para produtos</h3>
+      <p></p>
+    </div>
+  </div>
+
+
+
+  <div class="card">
     <img src="https://github.com/user-attachments/assets/22a49177-0a6a-4f6b-b8f1-a7fd649f73f7">
     <div class="card-body">
       <h3>Tag / Etiqueta</h3>
@@ -89,18 +102,18 @@
 <div class="grid">
 
   <div class="card">
-    <iframe src="arquivos/Manual-de-preparo-Bebidas-Geladas-Lat-Cafe.pdf"></iframe>
-    <div class="card-body">
+   
+   <div class="card-body">
       <h3>Manual – Bebidas Geladas</h3>
-      <a href="arquivos/Manual-de-preparo-Bebidas-Geladas-Lat-Cafe.pdf" target="_blank">Abrir PDF</a>
+      <a href="[arquivos/Manual-de-preparo-Bebidas-Geladas-Lat-Cafe.pdf" target="_blank](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Geladas%20Lat%20Cafe.pdf)">Abrir PDF</a>
     </div>
   </div>
 
   <div class="card">
-    <iframe src="arquivos/Manual-de-preparo-Bebidas-Quentes-Lat-Cafe.pdf"></iframe>
-    <div class="card-body">
+
+   <div class="card-body">
       <h3>Manual – Bebidas Quentes</h3>
-      <a href="arquivos/Manual-de-preparo-Bebidas-Quentes-Lat-Cafe.pdf" target="_blank">Abrir PDF</a>
+      <a href="[arquivos/Manual-de-preparo-Bebidas-Quentes-Lat-Cafe.pdf" target="_blank](https://github.com/wesleystadler/wesleystadler/blob/main/Manual%20de%20preparo%20-%20Bebidas%20Quentes%20Lat%20Cafe.pdf)">Abrir PDF</a>
     </div>
   </div>
 
@@ -112,9 +125,10 @@
 
   <div class="card">
     <video controls muted>
-      <source src="videos/WhatsApp-Video-2026-01-12-23-05-40.mp4" type="video/mp4">
+      <source src="[videos/WhatsApp-Video-2026-01-12-23-05-40.mp4](https://github.com/wesleystadler/wesleystadler/blob/main/WhatsApp%20Video%202026-01-12%20at%2023.17.27.mp4)" type="video/mp4">
     </video>
-    <div class="card-body">
+  
+ <div class="card-body">
       <h3>Vídeo Promocional</h3>
       <p>Edição para redes sociais</p>
     </div>
@@ -122,11 +136,11 @@
 
   <div class="card">
     <video controls muted>
-      <source src="videos/WhatsApp-Video-2026-01-12-23-17-27.mp4" type="video/mp4">
+      <source src="[videos/WhatsApp-Video-2026-01-12-23-17-27.mp4" type="video/mp4](https://github.com/wesleystadler/wesleystadler/blob/main/WhatsApp%20Video%202026-01-12%20at%2023.05.40.mp4)">
     </video>
     <div class="card-body">
       <h3>Conteúdo Social</h3>
-      <p>CapCut / Motion</p>
+      <p>CapCut </p>
     </div>
   </div>
 
